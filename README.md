@@ -2,7 +2,7 @@
 ---
 Hi there👋, I am Sahil Fruitwala master's student at Dalhousie University. I love to try and understand new technologies. So far, I have attempted Python, Java, JavaScript, Go, C, C++ and Perl language. From all these languages, I liked to work with Python and JavaScript. As for the future, I would like to work with Go, Rust and TypeScript. 
 
-I love to teach others what I know. Recently, I started writing blogs, and this motivates me to keep going and achieve satisfaction. I would like to discuss new technologies and ideas. If you want to discuss startup ideas or discuss anything, please feel free to [email me](sahilfruitwala007@gmail.com)📫.
+I love to teach others what I know. Recently, I started writing blogs, and this motivates me to keep going and achieve satisfaction. I would like to discuss new technologies and ideas. If you want to discuss startup ideas or discuss anything, please feel free to [email me](sahilfruitwala007@gmail.com) 💬.
 
 <table><tr><td valign="top">
 
