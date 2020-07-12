@@ -49,7 +49,7 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 * Jun 29 2020 [Why JavaScript?](https://medium.com/@SahilFruitwala/why-javascript-e438ae40fbd9?source=friends_link&sk=1fd478b59cb305630b4713d8b50d393a) 
 
 ### Get in touch -->
----
+<!-- --- -->
 <!-- display the social media buttons in your README -->
 <!--
 [![alt text][1.1]][1]
