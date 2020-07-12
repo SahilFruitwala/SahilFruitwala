@@ -26,9 +26,9 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 ### Get in touch
 <!-- tils starts -->
 [![alt text][1.1]][1]
-[![alt text][2.1]][2]  
+[![alt text][2.1]][2]
 [![alt text][3.1]][3]
-[![alt text][4.1]][4]  
+[![alt text][4.1]][4]
 
 <!-- tils ends -->
 </td></tr></table>
@@ -63,10 +63,10 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 <!-- icons with padding -->
 
-[1.1]: https://img.icons8.com/color/48/000000/twitter.png (Twitter)
-[2.1]: https://img.icons8.com/color/48/000000/linkedin.png (LinkedIn)
-[3.1]: https://img.icons8.com/color/48/000000/medium-monogram.png (Medium)
-[4.1]: https://img.icons8.com/material-sharp/48/000000/github.png (Github)
+[1.1]: https://img.icons8.com/color/32/000000/twitter.png (Twitter)
+[2.1]: https://img.icons8.com/color/32/000000/linkedin.png (LinkedIn)
+[3.1]: https://img.icons8.com/color/32/000000/medium-monogram.png (Medium)
+[4.1]: https://img.icons8.com/material-sharp/32/000000/github.png (Github)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
