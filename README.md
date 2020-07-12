@@ -9,7 +9,7 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 * [RentalVista](https://github.com/SahilFruitwala/rental-vista)  
 **Fron-end:** React *(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
-**Back-end:** Flask  *(pymongo)*
+**Back-end:** Flask  *(pymongo)*  
 **Database:** MongoDB  
 
 ### 📝 Latest articles from [Medium](https://medium.com/@SahilFruitwala)
