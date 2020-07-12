@@ -25,10 +25,10 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 ### Get in touch
 <!-- tils starts -->
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
+[![alt text][1.1]][1]  
+[![alt text][2.1]][2]  
+[![alt text][3.1]][3]  
+[![alt text][4.1]][4]  
 
 <!-- tils ends -->
 </td></tr></table>
