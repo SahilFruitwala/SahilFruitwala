@@ -4,13 +4,43 @@ Hi there👋, I am Sahil Fruitwala master's student at Dalhousie University. I l
 
 I love to teach others what I know. Recently, I started writing blogs, and this motivates me to keep going and achieve satisfaction. I would like to discuss new technologies and ideas. If you want to discuss startup ideas or discuss anything, please feel free to [email me](sahilfruitwala007@gmail.com)📫.
 
+<table><tr><td valign="top">
+
 ### Current Projects
+<!-- recent_releases starts -->
+* [RentalVista](https://rentalvista.herokuapp.com/)
+**Fron-end:** React  
+*(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
+**Back-end:** Flask  *(pymongo)*  
+**Database:** MongoDB 
+
+[GitHub Repository](https://github.com/SahilFruitwala/rental-vista)
+</td><td valign="top">
+
+### 📝 Latest articles
+<!-- blog starts -->
+* Jul 12 2020 [Why React?](https://medium.com/@SahilFruitwala/why-react-b28d9c4d7c36?source=friends_link&sk=250c00ec78f2941edeb8a25a1066a975) 
+* Jun 29 2020 [Why JavaScript?](https://medium.com/@SahilFruitwala/why-javascript-e438ae40fbd9?source=friends_link&sk=1fd478b59cb305630b4713d8b50d393a) 
+</td><td valign="top">
+
+### Get in touch
+<!-- tils starts -->
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+
+<!-- tils ends -->
+</td></tr></table>
+
+<!-- ### Current Projects
 ---
 
-* [RentalVista](https://github.com/SahilFruitwala/rental-vista)  
+* [RentalVista](https://rentalvista.herokuapp.com/)  
 **Fron-end:** React *(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
 **Back-end:** Flask  *(pymongo)*  
-**Database:** MongoDB  
+**Database:** MongoDB
+[Repository](https://github.com/SahilFruitwala/rental-vista)
 
 ### 📝 Latest articles
 ---
@@ -18,15 +48,15 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 * Jul 12 2020 [Why React?](https://medium.com/@SahilFruitwala/why-react-b28d9c4d7c36?source=friends_link&sk=250c00ec78f2941edeb8a25a1066a975) 
 * Jun 29 2020 [Why JavaScript?](https://medium.com/@SahilFruitwala/why-javascript-e438ae40fbd9?source=friends_link&sk=1fd478b59cb305630b4713d8b50d393a) 
 
-### Get in touch
+### Get in touch -->
 ---
 <!-- display the social media buttons in your README -->
-
+<!--
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
-
+-->
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
