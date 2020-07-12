@@ -12,7 +12,7 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 **Back-end:** Flask  *(pymongo)*  
 **Database:** MongoDB  
 
-### 📝 Latest articles from [Medium](https://medium.com/@SahilFruitwala)
+### 📝 Latest articles
 ---
 
 * Jul 12 2020 [Why React?](https://medium.com/@SahilFruitwala/why-react-b28d9c4d7c36?source=friends_link&sk=250c00ec78f2941edeb8a25a1066a975) 
