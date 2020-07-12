@@ -1,4 +1,52 @@
-### Hi there 👋
+## Sahil Fruitwala
+---
+Hi there👋, I am Sahil Fruitwala master's student at Dalhousie University. I love to try and understand new technologies. So far, I have attempted Python, Java, JavaScript, Go, C, C++ and Perl language. From all these languages, I liked to work with Python and JavaScript. As for the future, I would like to work with Go, Rust and TypeScript. 
+
+I love to teach others what I know. Recently, I started writing blogs, and this motivates me to keep going and achieve satisfaction. I would like to discuss new technologies and ideas. If you want to discuss startup ideas or discuss anything, please feel free to [email me](sahilfruitwala007@gmail.com)📫.
+
+### Current Projects
+---
+
+* [RentalVista](https://github.com/SahilFruitwala/rental-vista)  
+**Fron-end:** React *(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
+**Back-end:** Flask  *(pymongo)*
+**Database:** MongoDB  
+
+### 📝 Latest articles from [Medium](https://medium.com/@SahilFruitwala)
+---
+
+* Jul 12 2020 [Why React?](https://medium.com/@SahilFruitwala/why-react-b28d9c4d7c36?source=friends_link&sk=250c00ec78f2941edeb8a25a1066a975) 
+* Jun 29 2020 [Why JavaScript?](https://medium.com/@SahilFruitwala/why-javascript-e438ae40fbd9?source=friends_link&sk=1fd478b59cb305630b4713d8b50d393a) 
+
+### Get in touch
+---
+<!-- display the social media buttons in your README -->
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: https://img.icons8.com/color/48/000000/twitter.png (Twitter)
+[2.1]: https://img.icons8.com/color/48/000000/linkedin.png (LinkedIn)
+[3.1]: https://img.icons8.com/color/48/000000/medium-monogram.png (Medium)
+[4.1]: https://img.icons8.com/material-sharp/48/000000/github.png (Github)
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: https://twitter.com/Sahil_Fruitwala
+[2]: https://www.linkedin.com/in/sahilfruitwala/
+[3]: https://medium.com/@SahilFruitwala
+[4]: https://github.com/SahilFruitwala
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!--
 **SahilFruitwala/SahilFruitwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
