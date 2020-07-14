@@ -14,7 +14,8 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 **Back-end:** Flask  *(pymongo)*  
 **Database:** MongoDB 
 
-[GitHub Repository](https://github.com/SahilFruitwala/rental-vista)
+  * [Frontend Repository](https://github.com/SahilFruitwala/rental-vista)
+  * [Backend Repository](https://github.com/SahilFruitwala/rentalvista-backend)
 </td><td valign="top">
 
 ### 📝 Latest articles
