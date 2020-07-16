@@ -10,7 +10,7 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 <!-- recent_releases starts -->
 * [RentalVista](https://rentalvista.herokuapp.com/)  
 **Fron-end:** React  
-*( axios, react-bootstrap, font-awesome, react-router, polyfill )*  
+*(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
 **Back-end:** Flask  *(pymongo)*  
 **Database:** MongoDB 
 
