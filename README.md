@@ -20,44 +20,20 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 ### 📝 Latest articles
 <!-- blog starts -->
-* Jul 12 2020 [Why React?](https://medium.com/@SahilFruitwala/why-react-b28d9c4d7c36?source=friends_link&sk=250c00ec78f2941edeb8a25a1066a975) 
-* Jun 29 2020 [Why JavaScript?](https://medium.com/@SahilFruitwala/why-javascript-e438ae40fbd9?source=friends_link&sk=1fd478b59cb305630b4713d8b50d393a) 
+* Jul 12 2020 [Why React?](https://dev.to/sahil_/why-react-273g) 
+* Jun 29 2020 [Why JavaScript?](https://dev.to/sahil_/why-javascript-2nm7) 
 </td><td valign="top">
 
 ### 📙 Get in touch
 <!-- tils starts -->
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
+[![alt text][4.1]][4] 
+<a href="https://dev.to/sahil_"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sahil's DEV Profile" height="37" width="36"></a>
 
 <!-- tils ends -->
 </td></tr></table>
 
-<!-- ### Current Projects
----
-
-* [RentalVista](https://rentalvista.herokuapp.com/)  
-**Fron-end:** React *(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
-**Back-end:** Flask  *(pymongo, pyjwt, bcrypt, flask-mail)*  
-**Database:** MongoDB
-[Repository](https://github.com/SahilFruitwala/rental-vista)
-
-### 📝 Latest articles
----
-
-* Jul 12 2020 [Why React?](https://medium.com/@SahilFruitwala/why-react-b28d9c4d7c36?source=friends_link&sk=250c00ec78f2941edeb8a25a1066a975) 
-* Jun 29 2020 [Why JavaScript?](https://medium.com/@SahilFruitwala/why-javascript-e438ae40fbd9?source=friends_link&sk=1fd478b59cb305630b4713d8b50d393a) 
-
-### Get in touch -->
-<!-- --- -->
-<!-- display the social media buttons in your README -->
-<!--
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
--->
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
