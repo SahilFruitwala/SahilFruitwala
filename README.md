@@ -6,12 +6,12 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 <table><tr><td valign="top">
 
-### Current Projects
+### 👨‍💻 Current Projects
 <!-- recent_releases starts -->
 * [RentalVista](https://rentalvista.herokuapp.com/)  
 **Fron-end:** React  
 *(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
-**Back-end:** Flask  *(pymongo)*  
+**Back-end:** Flask  *(pymongo, bcrypt, pyjwt, flask-mail)*  
 **Database:** MongoDB 
 
  <!-- * [Frontend Repository](https://github.com/SahilFruitwala/rental-vista)
@@ -24,7 +24,7 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 * Jun 29 2020 [Why JavaScript?](https://medium.com/@SahilFruitwala/why-javascript-e438ae40fbd9?source=friends_link&sk=1fd478b59cb305630b4713d8b50d393a) 
 </td><td valign="top">
 
-### Get in touch
+### 📙 Get in touch
 <!-- tils starts -->
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -39,7 +39,7 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 * [RentalVista](https://rentalvista.herokuapp.com/)  
 **Fron-end:** React *(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
-**Back-end:** Flask  *(pymongo)*  
+**Back-end:** Flask  *(pymongo, pyjwt, bcrypt, flask-mail)*  
 **Database:** MongoDB
 [Repository](https://github.com/SahilFruitwala/rental-vista)
 
