@@ -11,7 +11,8 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 * [RentalVista](https://rentalvista.herokuapp.com/)  
 **Fron-end:** React  
 *(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
-**Back-end:** Flask  *(pymongo, bcrypt, pyjwt, flask-mail)*  
+**Back-end:** Flask  
+*(pymongo, bcrypt, pyjwt, flask-mail)*  
 **Database:** MongoDB 
 
  <!-- * [Frontend Repository](https://github.com/SahilFruitwala/rental-vista)
