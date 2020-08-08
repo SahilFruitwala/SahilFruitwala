@@ -28,7 +28,7 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 ### 📙 Get in touch
 <!-- tils starts -->
 [![alt text][1.1]][1]
-[![alt text][2.1]][2]
+[![alt text][2.1]][2]  
 [![alt text][4.1]][4] 
 <a href="https://dev.to/sahil_"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sahil's DEV Profile" height="37" width="36"></a>
 
