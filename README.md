@@ -6,7 +6,7 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 <table><tr><td valign="top">
 
-### 👨‍💻 Current Projects
+### 👨‍💻 Last Projects
 <!-- recent_releases starts -->
 * [RentalVista](https://rentalvista.herokuapp.com/)  
 **Fron-end:** React  
