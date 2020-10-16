@@ -6,9 +6,10 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 <table><tr><td valign="top">
 
-### 👨‍💻 Latest Project
+### 👨‍💻 Latest Project  
 <!-- recent_releases starts -->
-* [RentalVista](https://rentalvista.herokuapp.com/)  
+* [RentalVista](https://rentalvista.herokuapp.com/)   
+(**Finished**)  
 **Fron-end:** React  
 *(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
 **Back-end:** Flask  
