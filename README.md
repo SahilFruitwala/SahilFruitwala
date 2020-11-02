@@ -1,12 +1,12 @@
 ## Sahil Fruitwala
 
-Hi there👋, I am a master's student at Dalhousie University. I love to try and understand new technologies. So far, I have attempted Python, Java, JavaScript, Go, C, C++ and Perl language. From all these languages, I liked to work with Python and JavaScript. As for the future, I would like to work with Go, Rust and TypeScript.
+Hi there👋 I like to call myself as a developer with poetic touch. I love to try and understand new technologies. I liked to work with Python and JavaScript. As for the future, I want to try Go, Rust and TypeScript.
 
-I love to teach others what I know. Recently, I started writing blogs, and this motivates me to keep going and achieve satisfaction. I want to discuss new technologies and ideas. If you like to discuss startup ideas or discuss anything, please feel free to [email me](sahilfruitwala007@gmail.com) 💬.
+I love to teach others what I know. Recently, I started writing blogs, and this motivates me to keep going. I like to discuss new technologies and ideas. If you like to discuss startup ideas or discuss anything, please feel free to [email me](sahilfruitwala007@gmail.com) 💬.
 
 <table><tr><td valign="top">
 
-### 👨‍💻 Latest Project  
+### 👨‍💻 Latest Personal Projects  
 <!-- recent_releases starts -->
 * [RentalVista](https://rentalvista.herokuapp.com/)   
 (**Finished**)  
@@ -22,7 +22,8 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 ### 📝 Latest articles
 <!-- blog starts --> 
-* [Data Cleaning 101](https://medium.com/analytics-vidhya/data-cleaning-101-b3d29223f256) published in [Analytics Vidhya](https://medium.com/analytics-vidhya)
+* [Data Cleaning 101](https://medium.com/analytics-vidhya/data-cleaning-101-b3d29223f256)  
+Published in Analytics Vidhya
 * [Why React?](https://sahilfruitwala.medium.com/why-react-b28d9c4d7c36)
 * [Why JavaScript?](https://sahilfruitwala.medium.com/why-javascript-e438ae40fbd9)
 </td><td valign="top">
