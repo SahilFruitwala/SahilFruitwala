@@ -21,9 +21,10 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 </td><td valign="top">
 
 ### 📝 Latest articles
-<!-- blog starts -->
-* Jul 12 2020 [Why React?](https://dev.to/sahil_/why-react-273g) 
-* Jun 29 2020 [Why JavaScript?](https://dev.to/sahil_/why-javascript-2nm7) 
+<!-- blog starts --> 
+* [Data Cleaning 101](https://medium.com/analytics-vidhya/data-cleaning-101-b3d29223f256) published in [Analytics Vidhya](https://medium.com/analytics-vidhya)
+* [Why React?](https://sahilfruitwala.medium.com/why-react-b28d9c4d7c36)
+* [Why JavaScript?](https://sahilfruitwala.medium.com/why-javascript-e438ae40fbd9)
 </td><td valign="top">
 
 ### 📙 Get in touch
