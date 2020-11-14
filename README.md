@@ -8,7 +8,7 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 ### 👨‍💻 Latest Personal Projects  
 <!-- recent_releases starts -->
-* [RentalVista](https://rentalvista.herokuapp.com/)   
+* RentalVista  
 (**Finished**)  
 **Fron-end:** React  
 *(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
