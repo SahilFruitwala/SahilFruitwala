@@ -6,18 +6,16 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 <table><tr><td valign="top">
 
-### 👨‍💻 Latest Personal Projects  
+### 👨‍💻 Current Project  
 <!-- recent_releases starts -->
-* RentalVista  
-(**Finished**)  
-**Fron-end:** React  
-*(axios, react-bootstrap, font-awesome, react-router, polyfill)*  
-**Back-end:** Flask  
-*(pymongo, bcrypt, pyjwt, flask-mail)*  
+* Mini Project  
+(**In Progress**)  
+**Fron-end:** EJS  
+**Back-end:** ExpressJS (NodeJS)  
 **Database:** MongoDB 
 
- <!-- * [Frontend Repository](https://github.com/SahilFruitwala/rental-vista)
-  * [Backend Repository](https://github.com/SahilFruitwala/rentalvista-backend) -->
+[Repository](https://github.com/SahilFruitwala/mini-projects.git)
+ <!--  * [Backend Repository](https://github.com/SahilFruitwala/rentalvista-backend) -->
 </td><td valign="top">
 
 ### 📝 Latest articles
