@@ -49,7 +49,7 @@
 <a href="https://twitter.com/Sahil_Fruitwala" target="blank"><img align="center" src="./assets/twitter.svg" alt="Twitter" height="50" width="50" /></a>
 <a href="https://hashnode.com/@sahilF" target="blank"><img align="center" src="./assets/hashnode.svg" alt="Hashnode" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/SahilFruitwala" target="blank"><img align="center" src="./assets/linkedin.svg" alt="LinkedIn" height="50" width="50" /></a>
-<a href="https://dev.to/sahil_" target="blank"><img align="center" src="./assets/dev.svg" alt="Dev.to" height="50" width="50" /></a>
+<a href="https://dev.to/sahil_" target="blank"><img align="center" src="./assets/medium.svg" alt="Medium" height="50" width="50" /></a>
 <a href="https://www.instagram.com/sahil_fruitwala/" target="blank"><img align="center" src="./assets/instagram.svg" alt="Instagram" height="50" width="50" /></a>
 <a href="https://www.buymeacoffee.com/sahilfruitwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="174" align="center"></a>
 </p>
