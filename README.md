@@ -1,6 +1,11 @@
-## Sahil Fruitwala
+![Banner](https://github.com/SahilFruitwala/SahilFruitwala/blob/master/Cover-Image.png)
 
-Hi there👋 I like to call myself as a developer with poetic touch. I love to try and understand new technologies. I liked to work with Python and JavaScript. As for the future, I want to try Go, Rust and TypeScript.
+<!-- welcome message -->
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+
+Your visit here is much appriciated!
+
+<!--Hi there👋 I like to call myself as a developer with poetic touch. I love to try and understand new technologies. I liked to work with Python and JavaScript. As for the future, I want to try Go, Rust and TypeScript. -->
 
 I love to teach others what I know. Recently, I started writing blogs, and this motivates me to keep going. I like to discuss new technologies and ideas. If you like to discuss startup ideas or discuss anything, please feel free to [email me](sahilfruitwala007@gmail.com) 💬.
 
