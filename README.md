@@ -20,18 +20,17 @@ I love to teach others what I know. Recently, I started writing blogs, and this 
 
 ### 📝 Latest articles
 <!-- blog starts --> 
+* [Twitter API 101](https://blog.learncodeonline.in/twitter-api-101)  
+Published under LearnCodeOnline.in
 * [Data Cleaning 101](https://medium.com/analytics-vidhya/data-cleaning-101-b3d29223f256)  
-Published in Analytics Vidhya
-* [Why React?](https://sahilfruitwala.medium.com/why-react-b28d9c4d7c36)
-* [Why JavaScript?](https://sahilfruitwala.medium.com/why-javascript-e438ae40fbd9)
+Published under Analytics Vidhya
 </td><td valign="top">
 
 ### 📙 Get in touch
 <!-- tils starts -->
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]  
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
+[![Twitter][1.1]][1]
+[![LinkedIn][2.1]][2]  
+[![Blog][3.1]][3]
 
 <!-- <a href="https://dev.to/sahil_"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sahil's DEV Profile" height="37" width="36"></a> -->
 
@@ -44,18 +43,16 @@ Published in Analytics Vidhya
 
 <!-- icons with padding -->
 
-[1.1]: https://img.icons8.com/color/42/000000/twitter.png (Twitter)
-[2.1]: https://img.icons8.com/color/42/000000/linkedin.png (LinkedIn)
-[3.1]: https://img.icons8.com/color/42/000000/medium-monogram.png (Medium)
-[4.1]: https://img.icons8.com/material-sharp/42/000000/github.png (Github)
+[1.1]: https://img.icons8.com/color/58/000000/twitter.png (Twitter)
+[2.1]: https://img.icons8.com/color/58/000000/linkedin.png (LinkedIn)
+[3.1]: https://img.icons8.com/color/58/000000/blog.png (Hashnode)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
 [1]: https://twitter.com/Sahil_Fruitwala
 [2]: https://www.linkedin.com/in/sahilfruitwala/
-[3]: https://medium.com/@SahilFruitwala
-[4]: https://github.com/SahilFruitwala
+[3]: https://hashnode.com/@sahilF
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
