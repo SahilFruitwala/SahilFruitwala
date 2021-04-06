@@ -21,7 +21,7 @@
 
 <!-- blog starts --> 
 ### 📝 Latest articles
-1. [Twitter API 101](https://blog.learncodeonline.in/twitter-api-101) published under [Learn Code Online](https://web.learncodeonline.in/)
+1. [Introduction to Twitter API](https://blog.learncodeonline.in/introduction-to-twitter-api) published under [Learn Code Online](https://web.learncodeonline.in/)
 2. [Data Cleaning 101](https://medium.com/analytics-vidhya/data-cleaning-101-b3d29223f256) published under [Analytics Vidhya](https://medium.com/analytics-vidhya)
 3. [Why React?](https://sahilfruitwala.medium.com/why-react-b28d9c4d7c36)
 4. [Why JavaScript?](https://sahilfruitwala.medium.com/why-javascript-e438ae40fbd9)
