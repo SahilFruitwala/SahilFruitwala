@@ -13,8 +13,8 @@
  <li><p>I’m currently working on mini project to help frontend developers 👨🏽‍💻</p></li>
  <li><p>I’m currently learning Full stack development 🌱</p></li>
  <li><p>I’ve some experience in Machine Learning and Web Development 👨‍🔬</p></li>
- <li><p>I sometimes write blogs on <a href="https://hashnode.com/@sahilF" target="blank">Hashnode</a> to help fellow developers and beginners 📝</p></li>
- <li><p>Reach out to me <a href="linktr.ee/SahilFruitwala" target="blank">Sahil Fruitwala</a> 📫</p></li>
+ <li><p>Now-a-days, I am writing blogs to help fellow developers and beginners 📝</p></li>
+ <li><p>Reach out to me on <a href="https://www.linkedin.com/in/sahilfruitwala/" target="blank">LinkedIn</a> or <a href="https://twitter.com/Sahil_Fruitwala" target="blank">Twitter</a> 📫</p></li>
 </ul>
 
 ---
