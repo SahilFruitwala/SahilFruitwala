@@ -28,7 +28,7 @@
 
 <!-- Recent Project -->
 ### 👨‍🏫 Latest Projects  
-* TWI-JS  
+* TWI-JS: An NPM package wrapped around Twitter Search API.  
 (**In Progress**)  
 [NPM Package📦](https://www.npmjs.com/package/twi-js)  
 [Repository](https://github.com/SahilFruitwala/twi-js)
