@@ -1,11 +1,11 @@
-![Banner](./assets/cover.png)
+<!-- ![Banner](./assets/cover.png) -->
 
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <!-- Personal Details -->
 <h3>Your visit is appriciated! 🙌</h3>
-<p>I am Sahil Fruitwala, an IT Developer based in Canada🍁. I am passionate about new technologies 💻. I like to learn and use them in different projects🧑‍💻. I have a master's degree in Applied COmputer Science👨‍🎓. I like to discuss new technologies and ideas.</p>
+<p>I am Sahil Fruitwala, an IT Developer based in Canada🍁. I am passionate about new technologies 💻. I like to learn and use them in different projects 🧑‍💻. I have a master's degree in Applied Computer Science 👨‍🎓. I like to discuss new technologies and ideas.</p>
 
 <!-- More About Me -->
 <h3> More about me:</h3>
@@ -27,10 +27,14 @@
 
 
 <!-- Recent Project -->
-### 👨‍🏫 Current Project  
-* Mini Project  
+### 👨‍🏫 Latest Projects  
+* TWI-JS  
 (**In Progress**)  
-**Fron-end:** EJS  
+[NPM Package📦](https://www.npmjs.com/package/twi-js)  
+[Repository](https://github.com/SahilFruitwala/twi-js)
+
+* Note API
+**Fron-end:** EJS (Optional)  
 **Back-end:** ExpressJS (NodeJS)  
 **Database:** MongoDB 
 [Repository](https://github.com/SahilFruitwala/mini-projects.git)
