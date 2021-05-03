@@ -21,9 +21,10 @@
 
 <!-- blog starts --> 
 ### 📝 Latest articles
-1. [How to use Twitter API with JavaScript](https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17) published under [Analytics Vidhya](https://medium.com/analytics-vidhya)
-1. [Introduction to Twitter API](https://medium.com/analytics-vidhya/introduction-to-twitter-api-8116cf8ba21a) published under [Analytics Vidhya](https://medium.com/analytics-vidhya)
-2. [Data Cleaning 101](https://medium.com/analytics-vidhya/data-cleaning-101-b3d29223f256) published under [Analytics Vidhya](https://medium.com/analytics-vidhya)
+1. [Top 3 Frontend Frameworks in 2021](https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17) published under [JavaScript in Plain English](https://javascript.plainenglish.io/)  
+2. [How to use Twitter API with JavaScript](https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17) published under [JavaScript in Plain English](https://javascript.plainenglish.io/)  
+3. [Introduction to Twitter API](https://medium.com/analytics-vidhya/introduction-to-twitter-api-8116cf8ba21a) published under [Analytics Vidhya](https://medium.com/analytics-vidhya)  
+4. [Data Cleaning 101](https://medium.com/analytics-vidhya/data-cleaning-101-b3d29223f256) published under [Analytics Vidhya](https://medium.com/analytics-vidhya)  
 
 
 <!-- Recent Project -->
@@ -50,7 +51,7 @@
 <a href="https://twitter.com/Sahil_Fruitwala" target="blank"><img align="center" src="./assets/twitter.svg" alt="Twitter" height="50" width="50" /></a>
 <a href="https://sahilfruitwala.medium.com/" target="blank"><img align="center" src="./assets/medium.svg" alt="Medium" height="56" width="56" /></a>
 <a href="https://www.linkedin.com/in/SahilFruitwala" target="blank"><img align="center" src="./assets/linkedin.svg" alt="LinkedIn" height="50" width="50" /></a>
-<a href="https://www.instagram.com/sahil_fruitwala/" target="blank"><img align="center" src="./assets/instagram.svg" alt="Instagram" height="50" width="50" /></a>
+<!-- a href="https://www.instagram.com/sahil_fruitwala/" target="blank"><img align="center" src="./assets/instagram.svg" alt="Instagram" height="50" width="50" /></a> -->
 <!-- <a href="https://www.buymeacoffee.com/sahilfruitwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="174" align="center"></a>
 </p> -->
 <!-- <a href="https://hashnode.com/@SahilFruitwala" target="blank"><img align="center" src="./assets/hashnode.svg" alt="Hashnode" height="50" width="50" /></a> -->
