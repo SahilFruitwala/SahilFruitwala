@@ -20,7 +20,7 @@
 ---
 
 <!-- blog starts --> 
-### 📝 Latest articles
+### Latest articles
 1. [Top 3 Frontend Frameworks in 2021](https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17) published under [JavaScript in Plain English](https://javascript.plainenglish.io/)  
 2. [How to use Twitter API with JavaScript](https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17) published under [JavaScript in Plain English](https://javascript.plainenglish.io/)  
 3. [Introduction to Twitter API](https://medium.com/analytics-vidhya/introduction-to-twitter-api-8116cf8ba21a) published under [Analytics Vidhya](https://medium.com/analytics-vidhya)  
@@ -28,7 +28,7 @@
 
 
 <!-- Recent Project -->
-### 👨‍🏫 Latest Projects  
+### Latest Projects  
 * TWI-JS: An NPM package wrapped around Twitter Search API.  
 (**In Progress**)  
 [NPM Package📦](https://www.npmjs.com/package/twi-js)  
@@ -41,17 +41,32 @@
 [Repository](https://github.com/SahilFruitwala/mini-projects.git)
 
 <!-- WHat I am learning? -->
-### 👨‍💻 What am I learning?  
-1. Angular
-2. Communication Skills
+### Technologies I Have Worked With  
+<p align="left">
+<img align="center" src="./assets/Python.png" alt="Python" height="50" width="50" />&nbsp;
+<img align="center" src="./assets/HTML.png" alt="HTML" height="52" width="52" />&nbsp;
+<img align="center" src="./assets/CSS.png" alt="CSS" height="52" width="52" />&nbsp;
+<img align="center" src="./assets/JavaScript.png" alt="JS" height="40" width="40" />&nbsp;
+<img align="center" src="./assets/Node.png" alt="NodeJS" height="50" width="50" />
+</p>
+
+<!-- WHat I am learning? -->
+### What am I learning?  
+<p align="left">  
+<img align="center" src="./assets/Angular.png" alt="Angular" height="43" width="40"/>&nbsp;
+<img align="center" src="./assets/TypeScript.png" alt="TS" height="50" width="50" />
+</p>
 
 ---
+
+### Connect With Me  
 <p align="left">
 
-<a href="https://twitter.com/Sahil_Fruitwala" target="blank"><img align="center" src="./assets/twitter.svg" alt="Twitter" height="50" width="50" /></a>
-<a href="https://sahilfruitwala.medium.com/" target="blank"><img align="center" src="./assets/medium.svg" alt="Medium" height="56" width="56" /></a>
-<a href="https://www.linkedin.com/in/SahilFruitwala" target="blank"><img align="center" src="./assets/linkedin.svg" alt="LinkedIn" height="50" width="50" /></a>
+<a href="https://twitter.com/Sahil_Fruitwala" target="blank"><img align="center" src="./assets/twitter.svg" alt="Twitter" height="50" width="50" />&nbsp;</a>
+<a href="https://sahilfruitwala.medium.com/" target="blank"><img align="center" src="./assets/medium.svg" alt="Medium" height="56" width="56" />&nbsp;</a>
+<a href="https://www.linkedin.com/in/SahilFruitwala" target="blank"><img align="center" src="./assets/linkedin.svg" alt="LinkedIn" height="50" width="50" />&nbsp;</a>
 <!-- a href="https://www.instagram.com/sahil_fruitwala/" target="blank"><img align="center" src="./assets/instagram.svg" alt="Instagram" height="50" width="50" /></a> -->
-<!-- <a href="https://www.buymeacoffee.com/sahilfruitwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="174" align="center"></a>
-</p> -->
+<!-- <a href="https://www.buymeacoffee.com/sahilfruitwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="174" align="center"></a> -->
+
 <!-- <a href="https://hashnode.com/@SahilFruitwala" target="blank"><img align="center" src="./assets/hashnode.svg" alt="Hashnode" height="50" width="50" /></a> -->
+</p> 
