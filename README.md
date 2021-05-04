@@ -47,9 +47,10 @@
 <img align="center" src="./assets/HTML.png" alt="HTML" height="52" width="52" />&nbsp;
 <img align="center" src="./assets/CSS.png" alt="CSS" height="52" width="52" />&nbsp;
 <img align="center" src="./assets/JavaScript.png" alt="JS" height="40" width="40" />&nbsp;
+<img align="center" src="./assets/React.png" alt="ReactJS" height="40" width="43" />&nbsp;
 <img align="center" src="./assets/Node.png" alt="NodeJS" height="50" width="50" />&nbsp;
- <img align="center" src="./assets/MySQL.png" alt="MySQL" height="50" width="50" />&nbsp;
- <img align="center" src="./assets/MongoDB.png" alt="MongoDB" height="50" width="50" />&nbsp;
+<img align="center" src="./assets/MySQL.png" alt="MySQL" height="50" width="50" />&nbsp;
+<img align="center" src="./assets/MongoDB.png" alt="MongoDB" height="50" width="50" />&nbsp;
 </p>
 
 <!-- WHat I am learning? -->
