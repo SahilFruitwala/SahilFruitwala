@@ -10,8 +10,7 @@
 <!-- More About Me -->
 <h3> More about me:</h3>
 <ul>
- <li><p>I’m currently working on mini project to help frontend developers 👨🏽‍💻</p></li>
- <li><p>I’m currently learning Full stack development 🌱</p></li>
+ <li><p>I’m currently learning Full stack development (Angular in progress...) 🌱</p></li>
  <li><p>I’ve some experience in Machine Learning and Web Development 👨‍🔬</p></li>
  <li><p>Now-a-days, I am writing blogs to help fellow developers and beginners 📝</p></li>
  <li><p>Reach out to me on <a href="https://www.linkedin.com/in/sahilfruitwala/" target="blank">LinkedIn</a> or <a href="https://twitter.com/Sahil_Fruitwala" target="blank">Twitter</a> 📫</p></li>
@@ -21,10 +20,11 @@
 
 <!-- blog starts --> 
 ### Latest articles
-1. [Top 3 Frontend Frameworks in 2021](https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17) published under [JavaScript in Plain English](https://javascript.plainenglish.io/)  
-2. [How to use Twitter API with JavaScript](https://javascript.plainenglish.io/how-to-use-twitter-api-with-javascript-998237ac1c17) published under [JavaScript in Plain English](https://javascript.plainenglish.io/)  
-3. [Introduction to Twitter API](https://medium.com/analytics-vidhya/introduction-to-twitter-api-8116cf8ba21a) published under [Analytics Vidhya](https://medium.com/analytics-vidhya)  
-4. [Data Cleaning 101](https://medium.com/analytics-vidhya/data-cleaning-101-b3d29223f256) published under [Analytics Vidhya](https://medium.com/analytics-vidhya)  
+1. [Top 3 Frontend Frameworks in 2021](https://blog.learncodeonline.in/how-to-create-and-publish-a-package-to-npm-registry)
+2. [Top 3 Frontend Frameworks in 2021](https://blog.learncodeonline.in/top-3-frontend-frameworks)
+3. [How to use Twitter API with JavaScript](https://blog.learncodeonline.in/best-path-to-twitter-api-using-javascript-or-3-clear-steps)
+4. [Introduction to Twitter API](https://blog.learncodeonline.in/introduction-to-twitter-api)
+5. Data Cleaning 101 [Medium](https://medium.com/analytics-vidhya/data-cleaning-101-b3d29223f256) or [Hashnode](https://sahilfruitwala.hashnode.dev/data-cleaning-using-pandas-1)
 
 
 <!-- Recent Project -->
@@ -34,11 +34,11 @@
 [NPM Package📦](https://www.npmjs.com/package/twi-js)  
 [Repository](https://github.com/SahilFruitwala/twi-js)
 
-* Note API
+<!-- * Note API
 **Fron-end:** EJS (Optional)  
 **Back-end:** ExpressJS (NodeJS)  
 **Database:** MongoDB   
-[Repository](https://github.com/SahilFruitwala/mini-projects.git)
+[Repository](https://github.com/SahilFruitwala/mini-projects.git) -->
 
 <!-- WHat I am learning? -->
 ### Technologies I Have Worked With  
@@ -66,7 +66,7 @@
 <p align="left">
 
 <a href="https://twitter.com/Sahil_Fruitwala" target="blank"><img align="center" src="./assets/twitter.svg" alt="Twitter" height="50" width="50" />&nbsp;</a>
-<a href="https://sahilfruitwala.medium.com/" target="blank"><img align="center" src="./assets/medium.svg" alt="Medium" height="56" width="56" />&nbsp;</a>
+<a href="https://hashnode.com/@SahilFruitwala" target="blank"><img align="center" src="./assets/hashnode.svg" alt="HashNode" height="56" width="56" />&nbsp;</a>
 <a href="https://www.linkedin.com/in/SahilFruitwala" target="blank"><img align="center" src="./assets/linkedin.svg" alt="LinkedIn" height="50" width="50" />&nbsp;</a>
 <!-- a href="https://www.instagram.com/sahil_fruitwala/" target="blank"><img align="center" src="./assets/instagram.svg" alt="Instagram" height="50" width="50" /></a> -->
 <!-- <a href="https://www.buymeacoffee.com/sahilfruitwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="174" align="center"></a> -->
