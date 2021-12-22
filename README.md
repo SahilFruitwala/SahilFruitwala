@@ -10,7 +10,7 @@
 <!-- More About Me -->
 <h3> More about me:</h3>
 <ul>
- <li><p>I’m currently learning Full stack development (Angular in progress...) 🌱</p></li>
+ <li><p>I’m currently learning Full stack development 🌱</p></li>
  <li><p>I’ve some experience in Machine Learning and Web Development 👨‍🔬</p></li>
  <li><p>Now-a-days, I am writing blogs to help fellow developers and beginners 📝</p></li>
  <li><p>Reach out to me on <a href="https://www.linkedin.com/in/sahilfruitwala/" target="blank">LinkedIn</a> or <a href="https://twitter.com/Sahil_Fruitwala" target="blank">Twitter</a> 📫</p></li>
@@ -20,7 +20,8 @@
 
 <!-- blog starts --> 
 ### Latest articles
-1. [Top 3 Frontend Frameworks in 2021](https://blog.learncodeonline.in/how-to-create-and-publish-a-package-to-npm-registry)
+1. [Python 101 Series](https://sahilfruitwala.hashnode.dev/series/python-101)
+1. [How to Create and Publish a Package to npm Registry](https://blog.learncodeonline.in/how-to-create-and-publish-a-package-to-npm-registry)
 2. [Top 3 Frontend Frameworks in 2021](https://blog.learncodeonline.in/top-3-frontend-frameworks)
 3. [How to use Twitter API with JavaScript](https://blog.learncodeonline.in/best-path-to-twitter-api-using-javascript-or-3-clear-steps)
 4. [Introduction to Twitter API](https://blog.learncodeonline.in/introduction-to-twitter-api)
