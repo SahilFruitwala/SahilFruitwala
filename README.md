@@ -4,7 +4,7 @@
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <!-- Personal Details -->
-<h3>Your visit is appriciated! 🙌</h3>
+<h3>Your visit is appreciated! 🙌</h3>
 <p>I am Sahil Fruitwala, an IT Developer based in Canada🍁. I am passionate about new technologies 💻. I like to learn and use them in different projects 🧑‍💻. I have a master's degree in Applied Computer Science 👨‍🎓. I like to discuss new technologies and ideas.</p>
 
 <!-- More About Me -->
@@ -17,23 +17,6 @@
 </ul>
 
 ---
-
-<!-- blog starts --> 
-### Latest articles
-1. [Python 101 Series](https://sahilfruitwala.hashnode.dev/series/python-101)
-1. [How to Create and Publish a Package to npm Registry](https://blog.learncodeonline.in/how-to-create-and-publish-a-package-to-npm-registry)
-2. [Top 3 Frontend Frameworks in 2021](https://blog.learncodeonline.in/top-3-frontend-frameworks)
-3. [How to use Twitter API with JavaScript](https://blog.learncodeonline.in/best-path-to-twitter-api-using-javascript-or-3-clear-steps)
-4. [Introduction to Twitter API](https://blog.learncodeonline.in/introduction-to-twitter-api)
-5. Data Cleaning 101 [Medium](https://medium.com/analytics-vidhya/data-cleaning-101-b3d29223f256) or [Hashnode](https://sahilfruitwala.hashnode.dev/data-cleaning-using-pandas-1)
-
-
-<!-- Recent Project -->
-### Latest Projects  
-* TWI-JS: An NPM package wrapped around Twitter Search API.  
-(**In Progress**)  
-[NPM Package📦](https://www.npmjs.com/package/twi-js)  
-[Repository](https://github.com/SahilFruitwala/twi-js)
 
 <!-- * Note API
 **Fron-end:** EJS (Optional)  
@@ -55,20 +38,20 @@
 </p>
 
 <!-- WHat I am learning? -->
-### What am I learning?  
+<!-- ### What am I learning?  
 <p align="left">  
 <img align="center" src="./assets/Angular.png" alt="Angular" height="43" width="40"/>&nbsp;
 <img align="center" src="./assets/TypeScript.png" alt="TS" height="50" width="50" />&nbsp;
-</p>
+</p> -->
 
----
 
 ### Connect With Me  
 <p align="left">
 
-<a href="https://twitter.com/Sahil_Fruitwala" target="blank"><img align="center" src="./assets/twitter.svg" alt="Twitter" height="50" width="50" />&nbsp;</a>
-<a href="https://hashnode.com/@SahilFruitwala" target="blank"><img align="center" src="./assets/hashnode.svg" alt="HashNode" height="56" width="56" />&nbsp;</a>
-<a href="https://www.linkedin.com/in/SahilFruitwala" target="blank"><img align="center" src="./assets/linkedin.svg" alt="LinkedIn" height="50" width="50" />&nbsp;</a>
+<a href="https://bit.ly/3OghAwZ" target="blank"><img align="center" src="./assets/twitter.svg" alt="Twitter" height="50" width="50" />&nbsp;</a>
+<a href="https://bit.ly/3xwAgCT" target="blank"><img align="center" src="./assets/hashnode.svg" alt="HashNode" height="56" width="56" />&nbsp;</a>
+<a href="https://bit.ly/3JPF6O2" target="blank"><img align="center" src="./assets/linkedin.svg" alt="LinkedIn" height="50" width="50" />&nbsp;</a>
+ <a href="https://bit.ly/3uQUjtK" target="blank"><img align="center" src="./assets/medium.svg" alt="LinkedIn" height="50" width="50" />&nbsp;</a>
 <!-- a href="https://www.instagram.com/sahil_fruitwala/" target="blank"><img align="center" src="./assets/instagram.svg" alt="Instagram" height="50" width="50" /></a> -->
 <!-- <a href="https://www.buymeacoffee.com/sahilfruitwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="174" align="center"></a> -->
 
