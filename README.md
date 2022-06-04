@@ -1,7 +1,7 @@
 ![Banner](./assets/Banner.png)
 
 <!-- welcome message -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></h2>
 
 <!-- Personal Details -->
 <h3>Your visit is appreciated! 🙌</h3>
