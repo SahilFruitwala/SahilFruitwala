@@ -1,11 +1,10 @@
-![Banner](./assets/Banner.png)
-
-<!-- welcome message -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></h2>
+# Hi, Nice to meet you! I am Sahil Fruitwala.
 
 <!-- Personal Details -->
 <h3>Your visit is appreciated! 🙌</h3>
-<p>I am Sahil Fruitwala, an IT Developer based in Canada🍁. I am passionate about new technologies 💻. I like to learn and use them in different projects 🧑‍💻. I have a master's degree in Applied Computer Science 👨‍🎓. I like to discuss new technologies and ideas.</p>
+<p>I am a software engineer based in Canada🍁. I am passionate about new technologies 💻. I like to learn and use them in different projects 🧑‍💻. I have a master's degree in Applied Computer Science 👨‍🎓. I like to discuss new technologies and ideas.</p>
+
+## Checkout 👉 [sahilfruitwala.com](https://sahilfruitwala.com)
 
 <!-- More About Me -->
 <h3> More about me:</h3>
