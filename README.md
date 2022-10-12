@@ -48,9 +48,8 @@
 <p align="left">
 
 <a href="https://bit.ly/3OghAwZ" target="blank"><img align="center" src="./assets/twitter.svg" alt="Twitter" height="50" width="50" />&nbsp;</a>
-<a href="https://bit.ly/3xwAgCT" target="blank"><img align="center" src="./assets/hashnode.svg" alt="HashNode" height="56" width="56" />&nbsp;</a>
 <a href="https://bit.ly/3JPF6O2" target="blank"><img align="center" src="./assets/linkedin.svg" alt="LinkedIn" height="50" width="50" />&nbsp;</a>
- <a href="https://bit.ly/3uQUjtK" target="blank"><img align="center" src="./assets/medium.svg" alt="LinkedIn" height="50" width="50" />&nbsp;</a>
+ <a href="https://bit.ly/3uQUjtK" target="blank"><img align="center" src="./assets/medium.svg" alt="Medium" height="50" width="50" />&nbsp;</a>
 <!-- a href="https://www.instagram.com/sahil_fruitwala/" target="blank"><img align="center" src="./assets/instagram.svg" alt="Instagram" height="50" width="50" /></a> -->
 <!-- <a href="https://www.buymeacoffee.com/sahilfruitwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="174" align="center"></a> -->
 
