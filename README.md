@@ -23,6 +23,16 @@
 **Database:** MongoDB   
 [Repository](https://github.com/SahilFruitwala/mini-projects.git) -->
 
+
+### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+ - 💯 [A Date With the Datetime Module in Python | Part - 2](https://www.sahilfruitwala.com/date-and-time-with-python-datetime)
+ - 💫 [A Date With the Datetime Module in Python | Part - 1](https://www.sahilfruitwala.com/get-current-date-in-python)
+ - 🔥 [Quick Guide to Object-Oriented Programming With Python](https://www.sahilfruitwala.com/python-object-oriented-programming)
+ - 🌮 [Delete Files &amp; Directories Using Python](https://www.sahilfruitwala.com/delete-files-directories-using-python)
+ - 💫 [Organize Any Files and Folders Using Python](https://www.sahilfruitwala.com/organize-files-and-folders-using-python)<!-- BLOGPOSTS:END -->
+
+
 <!-- WHat I am learning? -->
 ### Technologies I Have Worked With  
 <p align="left">
@@ -35,16 +45,6 @@
 <img align="center" src="./assets/MySQL.png" alt="MySQL" height="50" width="50" />&nbsp;
 <img align="center" src="./assets/MongoDB.png" alt="MongoDB" height="50" width="50" />&nbsp;
 </p>
-
-
-### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
- - 💯 [A Date With the Datetime Module in Python | Part - 2](https://www.sahilfruitwala.com/date-and-time-with-python-datetime)
- - 💫 [A Date With the Datetime Module in Python | Part - 1](https://www.sahilfruitwala.com/get-current-date-in-python)
- - 🔥 [Quick Guide to Object-Oriented Programming With Python](https://www.sahilfruitwala.com/python-object-oriented-programming)
- - 🌮 [Delete Files &amp; Directories Using Python](https://www.sahilfruitwala.com/delete-files-directories-using-python)
- - 💫 [Organize Any Files and Folders Using Python](https://www.sahilfruitwala.com/organize-files-and-folders-using-python)<!-- BLOGPOSTS:END -->
-
 
 <!-- WHat I am learning? -->
 <!-- ### What am I learning?  
