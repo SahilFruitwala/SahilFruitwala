@@ -4,24 +4,7 @@
 <h3>Your visit is appreciated! 🙌</h3>
 <p>I am a software engineer based in Canada🍁. I am passionate about new technologies 💻. I like to learn and use them in different projects 🧑‍💻. I have a master's degree in Applied Computer Science 👨‍🎓. I like to discuss new technologies and ideas.</p>
 
-## Checkout 👉 [sahilfruitwala.com](https://sahilfruitwala.com)
-
-<!-- More About Me -->
-<h3> More about me:</h3>
-<ul>
- <li><p>I’m currently learning Full stack development 🌱</p></li>
- <li><p>I’ve some experience in Machine Learning and Web Development 👨‍🔬</p></li>
- <li><p>Now-a-days, I am writing blogs to help fellow developers and beginners 📝</p></li>
- <li><p>Reach out to me on <a href="https://www.linkedin.com/in/sahilfruitwala/" target="blank">LinkedIn</a> or <a href="https://twitter.com/Sahil_Fruitwala" target="blank">Twitter</a> 📫</p></li>
-</ul>
-
 ---
-
-<!-- * Note API
-**Fron-end:** EJS (Optional)  
-**Back-end:** ExpressJS (NodeJS)  
-**Database:** MongoDB   
-[Repository](https://github.com/SahilFruitwala/mini-projects.git) -->
 
 
 ### :books: Recent Blog Posts
@@ -32,6 +15,9 @@
  - 🌮 [Delete Files &amp; Directories Using Python](https://www.sahilfruitwala.com/delete-files-directories-using-python)
  - 💫 [Organize Any Files and Folders Using Python](https://www.sahilfruitwala.com/organize-files-and-folders-using-python)<!-- BLOGPOSTS:END -->
 
+#### Checkout 👉 [sahilfruitwala.com](https://sahilfruitwala.com)
+
+---
 
 <!-- WHat I am learning? -->
 ### Technologies I Have Worked With  
