@@ -9,11 +9,11 @@
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [A Date With the Datetime Module in Python | Part - 2](https://www.sahilfruitwala.com/date-and-time-with-python-datetime)
- - 💫 [A Date With the Datetime Module in Python | Part - 1](https://www.sahilfruitwala.com/get-current-date-in-python)
- - 🔥 [Quick Guide to Object-Oriented Programming With Python](https://www.sahilfruitwala.com/python-object-oriented-programming)
- - 🌮 [Delete Files &amp; Directories Using Python](https://www.sahilfruitwala.com/delete-files-directories-using-python)
- - 💫 [Organize Any Files and Folders Using Python](https://www.sahilfruitwala.com/organize-files-and-folders-using-python)<!-- BLOGPOSTS:END -->
+ - 💯 [Upload CSV Data To MongoDB](https://www.sahilfruitwala.com/upload-csv-data-to-mongodb)
+ - 💫 [A Date With the Datetime Module in Python | Part - 2](https://www.sahilfruitwala.com/date-and-time-with-python-datetime)
+ - 🔥 [A Date With the Datetime Module in Python | Part - 1](https://www.sahilfruitwala.com/get-current-date-in-python)
+ - 🌮 [Quick Guide to Object-Oriented Programming With Python](https://www.sahilfruitwala.com/python-object-oriented-programming)
+ - 💫 [Delete Files &amp; Directories Using Python](https://www.sahilfruitwala.com/delete-files-directories-using-python)<!-- BLOGPOSTS:END -->
 
 #### Checkout 👉 [sahilfruitwala.com](https://sahilfruitwala.com)
 
