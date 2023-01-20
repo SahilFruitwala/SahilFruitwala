@@ -1,4 +1,4 @@
-# Hi, Nice to meet you! I am Sahil Fruitwala.
+# Hi there! Nice to meet you!
 
 <!-- Personal Details -->
 <h3>Your visit is appreciated! 🙌</h3>
