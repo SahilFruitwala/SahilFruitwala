@@ -10,10 +10,10 @@
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 💯 [How to read and write Sequential data gracefully in Python](https://www.sahilfruitwala.com/operate-sequential-data-gracefully-in-python)
- - 💫 [Upload CSV Data To MongoDB](https://www.sahilfruitwala.com/upload-csv-data-to-mongodb)
- - 🔥 [A Date With the Datetime Module in Python | Part - 2](https://www.sahilfruitwala.com/date-and-time-with-python-datetime)
- - 🌮 [A Date With the Datetime Module in Python | Part - 1](https://www.sahilfruitwala.com/get-current-date-in-python)
- - 💫 [Quick Guide to Object-Oriented Programming With Python](https://www.sahilfruitwala.com/python-object-oriented-programming)<!-- BLOGPOSTS:END -->
+ - 💫 [Tuesdays with Morrie | Book Summary](https://www.sahilfruitwala.com/tuesdays-with-morrie)
+ - 🔥 [6 Ways To Stop Getting Distracted](https://www.sahilfruitwala.com/6-ways-to-stop-getting-distracted)
+ - 🌮 [Unhappy Money](https://www.sahilfruitwala.com/unhappy-money)
+ - 💫 [How To Read Better | Blog Summary](https://www.sahilfruitwala.com/how-to-read-summary)<!-- BLOGPOSTS:END -->
 
 #### Checkout 👉 [sahilfruitwala.com](https://sahilfruitwala.com)
 
