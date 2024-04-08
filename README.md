@@ -15,7 +15,7 @@
  - 🌮 [A Date With the Datetime Module in Python | Part - 1](https://coding.sahilfruitwala.com/get-current-date-in-python)
  - 💫 [Quick Guide to Object-Oriented Programming With Python](https://coding.sahilfruitwala.com/python-object-oriented-programming)<!-- BLOGPOSTS:END -->
 
-#### Checkout 👉 [sahilfruitwala.com](https://sahilfruitwala.com)
+#### Checkout Programming Blogs 👉 [coding.sahilfruitwala.com](https://coding.sahilfruitwala.com)
 
 ---
 
