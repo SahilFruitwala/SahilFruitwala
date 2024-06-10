@@ -9,11 +9,11 @@
 
 ### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Beyond ‘Hi’: The Case for Meaningful Messaging](https://coding.sahilfruitwala.com/beyond-hi-the-case-for-meaningful-messaging)
- - 💫 [How to read and write Sequential data gracefully in Python](https://coding.sahilfruitwala.com/operate-sequential-data-gracefully-in-python)
- - 🔥 [Upload CSV Data To MongoDB](https://coding.sahilfruitwala.com/upload-csv-data-to-mongodb)
- - 🌮 [A Date With the Datetime Module in Python | Part - 2](https://coding.sahilfruitwala.com/date-and-time-with-python-datetime)
- - 💫 [A Date With the Datetime Module in Python | Part - 1](https://coding.sahilfruitwala.com/get-current-date-in-python)<!-- BLOGPOSTS:END -->
+ - 💯 [Mastering Python Comprehensions: Crafting Efficient and Readable Code](https://coding.sahilfruitwala.com/mastering-python-comprehensions)
+ - 💫 [Beyond ‘Hi’: The Case for Meaningful Messaging](https://coding.sahilfruitwala.com/beyond-hi-the-case-for-meaningful-messaging)
+ - 🔥 [How to read and write Sequential data gracefully in Python](https://coding.sahilfruitwala.com/operate-sequential-data-gracefully-in-python)
+ - 🌮 [Upload CSV Data To MongoDB](https://coding.sahilfruitwala.com/upload-csv-data-to-mongodb)
+ - 💫 [A Date With the Datetime Module in Python | Part - 2](https://coding.sahilfruitwala.com/date-and-time-with-python-datetime)<!-- BLOGPOSTS:END -->
 
 #### Checkout Programming Blogs 👉 [coding.sahilfruitwala.com](https://coding.sahilfruitwala.com)
 
