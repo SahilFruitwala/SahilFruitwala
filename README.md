@@ -19,6 +19,8 @@ I enjoy learning new technologies and using them to build useful, real‑world p
 - [CC Generator](https://github.com/SahilFruitwala/cc-generator) — A high-performance tool that automatically creates subtitles for your videos. Optimized specifically for Mac computers with Apple Silicon chips (M1, M2, M3).
 - [MicroPng CLI](https://www.npmjs.com/package/micropng-cli) — Command-line interface for MicroPng image compression. Compress images directly from your terminal with simple commands.
 - [MicroPng Desktop App](https://github.com/SahilFruitwala/micropng-desktop-app) — Desktop application for MicroPng image compression. Drag and drop images for quick, local compression without uploading to any server.
+- [Chefu](https://github.com/SahilFruitwala/chefu.git) — Chefu is a modern web app for AI-powered meal planning and recipe management. It offers smart meal suggestions with seamless authentication and data storage.
+- [ResumeBolt](https://github.com/SahilFruitwala/resume-bolt) — ResumeBolt is an AI-powered resume and cover letter analysis tool that provides actionable feedback to optimize your job applications for ATS systems and land more interviews.
 
 <!-- PROJECTS:END -->
 
