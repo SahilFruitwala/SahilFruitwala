@@ -1,0 +1,31 @@
+name: RSS Projects
+
+on:
+  schedule:
+    # Runs every 3 days
+    - cron: "0 0 */3 * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-projects:
+    name: Update README with latest projects from sahilfruitwala.com
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Update projects section from RSS
+        run: python .github/update_projects_from_rss.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update projects section from sahilfruitwala.com RSS"
+          file_pattern: README.md
+

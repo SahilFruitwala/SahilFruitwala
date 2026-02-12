@@ -1,53 +1,47 @@
-# Hi there! Nice to meet you!
+# Hi, I'm Sahil
 
-<!-- Personal Details -->
-<h3>Your visit is appreciated! 🙌</h3>
-<p>I am a software engineer based in Canada🍁. I am passionate about new technologies 💻. I like to learn and use them in different projects 🧑‍💻. I have a master's degree in Applied Computer Science 👨‍🎓. I like to discuss new technologies and ideas.</p>
+Software engineer based in Canada, building with Python, JavaScript, and the web.
+
+I enjoy learning new technologies and using them to build useful, real‑world projects.
+
+[Projects](#projects) · [Blog](#blog) · [Ideas](#ideas--experiments) · [Contact](#connect)
+
+---
+
+### Projects
+
+
+<!-- PROJECTS:START -->
+
+- [MicroPng](https://micropng.thehalfbakedlab.com/) — A better and Open Source version of TinyPNG with a focus on speed and ease of use.
+- [Image Behind](https://github.com/SahilFruitwala/image-behind) — A privacy-focused design tool that automatically removes backgrounds and lets you place text behind the subject. Features professional typography controls, background effects, and "Magic Motion" video exports.
+- [Retro Arcade CLI](https://github.com/SahilFruitwala/retro-arcade) — A terminal-based arcade collection built with Bun and OpenTUI. Currently features Space Invaders, Snake, 2048 and Flappy Bird.
+- [CC Generator](https://github.com/SahilFruitwala/cc-generator) — A high-performance tool that automatically creates subtitles for your videos. Optimized specifically for Mac computers with Apple Silicon chips (M1, M2, M3).
+- [MicroPng CLI](https://www.npmjs.com/package/micropng-cli) — Command-line interface for MicroPng image compression. Compress images directly from your terminal with simple commands.
+- [MicroPng Desktop App](https://github.com/SahilFruitwala/micropng-desktop-app) — Desktop application for MicroPng image compression. Drag and drop images for quick, local compression without uploading to any server.
+
+<!-- PROJECTS:END -->
+
+For more projects and details, see my resume at [sahilfruitwala.com](https://www.sahilfruitwala.com/resume).
+
+---
+
+### Blog
+
+Read my latest writing at [sahilfruitwala.com](https://sahilfruitwala.com).
 
 ---
 
 
-### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
- - 💯 [Mastering Python Comprehensions: Crafting Efficient and Readable Code](https://coding.sahilfruitwala.com/mastering-python-comprehensions)
- - 💫 [Beyond ‘Hi’: The Case for Meaningful Messaging](https://coding.sahilfruitwala.com/beyond-hi-the-case-for-meaningful-messaging)
- - 🔥 [How to read and write Sequential data gracefully in Python](https://coding.sahilfruitwala.com/operate-sequential-data-gracefully-in-python)
- - 🌮 [Upload CSV Data To MongoDB](https://coding.sahilfruitwala.com/upload-csv-data-to-mongodb)
- - 💫 [A Date With the Datetime Module in Python | Part - 2](https://coding.sahilfruitwala.com/date-and-time-with-python-datetime)<!-- BLOGPOSTS:END -->
+### Ideas & Experiments
 
-#### Checkout Programming Blogs 👉 [coding.sahilfruitwala.com](https://coding.sahilfruitwala.com)
+- Building bunch of tools with vibe coding that I want to use personally and making them all open-source (mostly)
+- Building small tools in Python to automate everyday tasks.
+- Exploring better ways to explain programming concepts through blog posts and examples.
+- Playing with simple ML models around text and developer productivity.
 
 ---
 
-<!-- WHat I am learning? -->
-### Technologies I Have Worked With  
-<p align="left">
-<img align="center" src="./assets/Python.png" alt="Python" height="50" width="50" />&nbsp;
-<img align="center" src="./assets/HTML.png" alt="HTML" height="52" width="52" />&nbsp;
-<img align="center" src="./assets/CSS.png" alt="CSS" height="52" width="52" />&nbsp;
-<img align="center" src="./assets/JavaScript.png" alt="JS" height="40" width="40" />&nbsp;
-<img align="center" src="./assets/React.png" alt="ReactJS" height="40" width="43" />&nbsp;
-<img align="center" src="./assets/Node.png" alt="NodeJS" height="50" width="50" />&nbsp;
-<img align="center" src="./assets/MySQL.png" alt="MySQL" height="50" width="50" />&nbsp;
-<img align="center" src="./assets/MongoDB.png" alt="MongoDB" height="50" width="50" />&nbsp;
-</p>
+### Connect
 
-<!-- WHat I am learning? -->
-<!-- ### What am I learning?  
-<p align="left">  
-<img align="center" src="./assets/Angular.png" alt="Angular" height="43" width="40"/>&nbsp;
-<img align="center" src="./assets/TypeScript.png" alt="TS" height="50" width="50" />&nbsp;
-</p> -->
-
-
-### Connect With Me  
-<p align="left">
-
-<a href="https://bit.ly/3OghAwZ" target="blank"><img align="center" src="./assets/twitter.svg" alt="Twitter" height="50" width="50" />&nbsp;</a>
-<a href="https://bit.ly/3JPF6O2" target="blank"><img align="center" src="./assets/linkedin.svg" alt="LinkedIn" height="50" width="50" />&nbsp;</a>
- <a href="https://bit.ly/3uQUjtK" target="blank"><img align="center" src="./assets/medium.svg" alt="Medium" height="50" width="50" />&nbsp;</a>
-<!-- a href="https://www.instagram.com/sahil_fruitwala/" target="blank"><img align="center" src="./assets/instagram.svg" alt="Instagram" height="50" width="50" /></a> -->
-<!-- <a href="https://www.buymeacoffee.com/sahilfruitwala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50" width="174" align="center"></a> -->
-
-<!-- <a href="https://hashnode.com/@SahilFruitwala" target="blank"><img align="center" src="./assets/hashnode.svg" alt="Hashnode" height="50" width="50" /></a> -->
-</p> 
+[Twitter](https://x.com/SahilBeingSahil) · [LinkedIn](https://www.linkedin.com/in/sahilfruitwala/) · [YouTube](https://www.youtube.com/@SahilBeingSahil)
