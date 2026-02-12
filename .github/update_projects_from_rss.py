@@ -9,7 +9,7 @@ RSS_URL = "https://www.sahilfruitwala.com/rss.xml"
 README_PATH = "README.md"
 START_MARKER = "<!-- PROJECTS:START -->"
 END_MARKER = "<!-- PROJECTS:END -->"
-MAX_ITEMS = 6
+MAX_ITEMS = 10
 MIN_AWARE_DATE = datetime.min.replace(tzinfo=timezone.utc)
 
 
