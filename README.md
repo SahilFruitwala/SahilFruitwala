@@ -22,18 +22,20 @@ If something annoys me twice, it becomes a repo. If it's useful, you can use it 
 
 <!-- PROJECTS:START -->
 
-- [MicroPng](https://micropng.thehalfbakedlab.com/) — A better and Open Source version of TinyPNG with a focus on speed and ease of use.
-- [Image Behind](https://github.com/SahilFruitwala/image-behind) — A privacy-focused design tool that automatically removes backgrounds and lets you place text behind the subject. Features professional typography controls, background effects, and "Magic Motion" video exports.
+- [Filemite](https://filemite.com) — Tiny tools for images and PDFs — compress, convert, crop, merge, sign, and redact. Nothing is stored.
+- [SimpleRecord](https://sahilfruitwala.github.io/simple-record) — A fast screen and camera recorder for Mac. Scenes, replay buffer, and live streaming — no OBS, no Electron.
+- [OpenLink](https://links.sahilfruitwala.com) — A minimal link-in-bio page: profile, projects, newsletter, and the rest of the internet in one spot.
+- [Kami](https://kami.sahilfruitwala.com) — A quiet read-later app for blogs and X articles. Paste a link for a clean page, then tag, highlight, journal, and keep books, movies, and shows on the same shelves.
+- [MicroPng](https://micropng.sahilfruitwala.com) — Image compression, resize, favicon generator and color palette generator in one place.
+- [DuoCamRecorder](https://apps.apple.com/us/app/duocamrecorder/id6774351529) — DuoCamRecorder is a video recording app that allows you to record portrait clip and a landscape clip at the same time.
+- [Udemy Cinema Mode](https://chromewebstore.google.com/detail/akecbpfnlkeifnagpcglabdmigndiphd) — A Chrome extension that make video player to look like a cinema fill whole screen with entering fullscreen mode.
+- [Notion Palette Pro](https://chromewebstore.google.com/detail/nhnalkeaieehijdjnhhpliodhmokhcfo) — Notion Palette Pro is a premium Notion plugin that enhances your productivity by adding features like dark mode, custom CSS, and more.
+- [X Palette Pro](https://chromewebstore.google.com/detail/idijnjmaoacochkkfjadlhoipaalcnmd) — X Palette Pro is a premium X plugin that enhances your productivity by adding features like dark mode, custom CSS, and more.
 - [Retro Arcade CLI](https://github.com/SahilFruitwala/retro-arcade) — A terminal-based arcade collection built with Bun and OpenTUI. Currently features Space Invaders, Snake, 2048 and Flappy Bird.
-- [CC Generator](https://github.com/SahilFruitwala/cc-generator) — A high-performance tool that automatically creates subtitles for your videos. Optimized specifically for Mac computers with Apple Silicon chips (M1, M2, M3).
-- [MicroPng CLI](https://www.npmjs.com/package/micropng-cli) — Command-line interface for MicroPng image compression. Compress images directly from your terminal with simple commands.
-- [MicroPng Desktop App](https://github.com/SahilFruitwala/micropng-desktop-app) — Desktop application for MicroPng image compression. Drag and drop images for quick, local compression without uploading to any server.
-- [Chefu](https://github.com/SahilFruitwala/chefu.git) — Chefu is a modern web app for AI-powered meal planning and recipe management. It offers smart meal suggestions with seamless authentication and data storage.
-- [ResumeBolt](https://github.com/SahilFruitwala/resume-bolt) — ResumeBolt is an AI-powered resume and cover letter analysis tool that provides actionable feedback to optimize your job applications for ATS systems and land more interviews.
 
 <!-- PROJECTS:END -->
 
-For more projects (and the ones we don't talk about), see [sahilfruitwala.com](https://www.sahilfruitwala.com/resume).
+For more projects (and the ones we don't talk about), see [sahilfruitwala.com/projects](https://sahilfruitwala.com/projects).
 
 ---
 
@@ -41,7 +43,17 @@ For more projects (and the ones we don't talk about), see [sahilfruitwala.com](h
 
 I write about building software, the books I read, and the places I eat. Sometimes the code even compiles.
 
-Latest: [sahilfruitwala.com](https://sahilfruitwala.com)
+<!-- BLOGPOSTS:START -->
+
+- Jan 29, 2026 — [This Free AI Assistant Actually Does Your Work (ChatGPT Can't) | Moltbot Review 2026](https://sahilfruitwala.com/post/moltbot-ai-assistant-review-2026)
+- Jan 25, 2026 — [The Vibe Coding Stack of 2026: Build Apps Without Experience](https://sahilfruitwala.com/post/vibe-coding-stack)
+- Jan 23, 2026 — [No-Nonsense Vibe Coding: The Tools That Actually Work for Beginners](https://sahilfruitwala.com/post/vibe-coding-tool)
+- May 5, 2025 — [How to Use FastAPI with Django ORM: Step-by-Step Tutorial (2025)](https://sahilfruitwala.com/post/fastapi-with-django-orm)
+- Jan 23, 2025 — [Pistachios Coffee Shop](https://sahilfruitwala.com/post/pistachios-coffee-shop)
+
+<!-- BLOGPOSTS:END -->
+
+More at [sahilfruitwala.com](https://sahilfruitwala.com).
 
 ---
 
