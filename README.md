@@ -1,8 +1,10 @@
 # Hi, I'm Sahil
 
-Software engineer based in Canada, building with Python, JavaScript, and the web.
+Software engineer in Canada. GitHub has me at `127.0.0.1` — honestly, that tracks.
 
-I enjoy learning new technologies and using them to build useful, real‑world projects.
+I build small tools fast with Python, TypeScript, and a concerning amount of vibe coding. Most of them ship free and open source. Then I write down what I learned, including the parts that didn't work.
+
+Shipping is easy now. Getting anyone to care is the interesting problem.
 
 [Projects](#projects) · [Blog](#blog) · [Ideas](#ideas--experiments) · [Contact](#connect)
 
@@ -37,10 +39,10 @@ Read my latest writing at [sahilfruitwala.com](https://sahilfruitwala.com).
 
 ### Ideas & Experiments
 
-- Building bunch of tools with vibe coding that I want to use personally and making them all open-source (mostly)
-- Building small tools in Python to automate everyday tasks.
-- Exploring better ways to explain programming concepts through blog posts and examples.
-- Playing with simple ML models around text and developer productivity.
+- Vibe-coding a pile of tools I actually want to use, then open-sourcing them (mostly) before I can overthink it
+- Tiny Python scripts whose only job is to stop me from doing the same boring thing twice
+- Explaining programming concepts in posts and videos that don't assume you already know
+- Playing with local models, CLIs, and whatever makes a developer's day 2% less annoying
 
 ---
 
