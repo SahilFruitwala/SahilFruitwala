@@ -1,12 +1,19 @@
-# Hi, I'm Sahil
+# Hi, I'm Sahil 🥭
 
-Software engineer in Canada. GitHub has me at `127.0.0.1` — honestly, that tracks.
+```text
+sahil@127.0.0.1
+---------------------------------
+real name : Fruitwala (yes, really)
+day job   : software engineer in Canada
+night job : vibe-coding tiny tools I wanted to exist
+stack     : Python, TypeScript, fruit puns
+policy    : open-source it before I can overthink it
+uptime    : 5+ years of "this'll just be a weekend project"
+```
 
-I build small tools fast with Python, TypeScript, and a concerning amount of vibe coding. Most of them ship free and open source. Then I write down what I learned, including the parts that didn't work.
+If something annoys me twice, it becomes a repo. If it's useful, you can use it too. If it's not useful… it's still a repo. We don't talk about those.
 
-Shipping is easy now. Getting anyone to care is the interesting problem.
-
-[Projects](#projects) · [Blog](#blog) · [Ideas](#ideas--experiments) · [Contact](#connect)
+🕹️ [Projects](#projects) · ✍️ [Blog](#blog) · 🧪 [Ideas](#ideas--experiments) · 👋 [Connect](#connect)
 
 ---
 
@@ -26,23 +33,25 @@ Shipping is easy now. Getting anyone to care is the interesting problem.
 
 <!-- PROJECTS:END -->
 
-For more projects and details, see my resume at [sahilfruitwala.com](https://www.sahilfruitwala.com/resume).
+For more projects (and the ones we don't talk about), see [sahilfruitwala.com](https://www.sahilfruitwala.com/resume).
 
 ---
 
 ### Blog
 
-Read my latest writing at [sahilfruitwala.com](https://sahilfruitwala.com).
+I write about building software, the books I read, and the places I eat. Sometimes the code even compiles.
+
+Latest: [sahilfruitwala.com](https://sahilfruitwala.com)
 
 ---
 
 
 ### Ideas & Experiments
 
-- Vibe-coding a pile of tools I actually want to use, then open-sourcing them (mostly) before I can overthink it
-- Tiny Python scripts whose only job is to stop me from doing the same boring thing twice
-- Explaining programming concepts in posts and videos that don't assume you already know
-- Playing with local models, CLIs, and whatever makes a developer's day 2% less annoying
+- Vibe-coding a new tool every time I get annoyed twice
+- Python scripts whose only job is to stop me from renaming 40 files by hand
+- Explaining programming like a friend, not a textbook
+- Local models, CLIs, and questionable 1am experiments
 
 ---
 
