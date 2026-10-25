@@ -26,12 +26,12 @@ If something annoys me twice, it becomes a repo. If it's useful, you can use it 
 - [SimpleRecord](https://sahilfruitwala.github.io/simple-record) — A fast screen and camera recorder for Mac. Scenes, replay buffer, and live streaming — no OBS, no Electron.
 - [OpenLink](https://links.sahilfruitwala.com) — A minimal link-in-bio page: profile, projects, newsletter, and the rest of the internet in one spot.
 - [Kami](https://kami.sahilfruitwala.com) — A quiet read-later app for blogs and X articles. Paste a link for a clean page, then tag, highlight, journal, and keep books, movies, and shows on the same shelves.
-- [MicroPng](https://micropng.sahilfruitwala.com) — Image compression, resize, favicon generator and color palette generator in one place.
 - [DuoCamRecorder](https://apps.apple.com/us/app/duocamrecorder/id6774351529) — DuoCamRecorder is a video recording app that allows you to record portrait clip and a landscape clip at the same time.
 - [Udemy Cinema Mode](https://chromewebstore.google.com/detail/akecbpfnlkeifnagpcglabdmigndiphd) — A Chrome extension that make video player to look like a cinema fill whole screen with entering fullscreen mode.
 - [Notion Palette Pro](https://chromewebstore.google.com/detail/nhnalkeaieehijdjnhhpliodhmokhcfo) — Notion Palette Pro is a premium Notion plugin that enhances your productivity by adding features like dark mode, custom CSS, and more.
 - [X Palette Pro](https://chromewebstore.google.com/detail/idijnjmaoacochkkfjadlhoipaalcnmd) — X Palette Pro is a premium X plugin that enhances your productivity by adding features like dark mode, custom CSS, and more.
 - [Retro Arcade CLI](https://github.com/SahilFruitwala/retro-arcade) — A terminal-based arcade collection built with Bun and OpenTUI. Currently features Space Invaders, Snake, 2048 and Flappy Bird.
+- [CC Generator](https://github.com/SahilFruitwala/cc-generator) — A high-performance tool that automatically creates subtitles for your videos. Optimized specifically for Mac computers with Apple Silicon chips (M1, M2, M3).
 
 <!-- PROJECTS:END -->
 
